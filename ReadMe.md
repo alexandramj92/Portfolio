@@ -12,15 +12,20 @@ The website is accessible [here.](https://alexandramj92.github.io/Portfolio/)
 The navigation bar items link to the different parts of the page. 
 The website is designed to be responsive and uses bootstrap. 
 
-The home page has my logo and rotating phrases.
+The home section has my logo and rotating phrases.
 
 ![Home Page](img/Main.PNG)
 
-The about page has a description of my background.
+The about section has a description of my background.
 
 ![About Page](img/about.PNG)
 
-The contact page allows a user to input their name, email, and a message that gets sent to my personal email via formspree. The footer contains the linkedin icon that opens a new tab to my linkedin profile.
+The Works section contains a link and short description of my first project and placeholders for future projects.
+
+![Works](img/projects.PNG)
+
+
+The contact section allows a user to input their name, email, and a message that gets sent to my personal email via formspree. The footer contains the linkedin icon that opens a new tab to my linkedin profile.
 
 ![Contact](img/contact.PNG)
 
