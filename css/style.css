@@ -371,7 +371,7 @@ header .logo {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #444 url(../img/bg/bg-1.jpg) no-repeat center center fixed;
+	background: #444 url(../img/dark-stars.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -465,6 +465,10 @@ section.inner {
 }
 .section.orange p,.section.green p {
 	color: #f7f7f7;
+}
+
+#main-logo{
+	width: 300px!important;
 }
 
 
@@ -599,7 +603,7 @@ section.spacer blockquote cite {
 }
 .portfolio-item .portfolio-image img {
 	width: 100%;
-	height: auto;
+	height: 100%;
 }
 .portfolio .portfolio-overlay {
 	width: 100%;
@@ -688,6 +692,15 @@ section.spacer blockquote cite {
 	position: absolute;
 	text-align: center;
 	display: block;
+}
+
+
+#work-cust{
+	margin-left: 150px!important;
+}
+
+.div.thumb-info{
+	
 }
 /* === Isotope CSS3 transitions === */
 
@@ -843,6 +856,11 @@ section#about {
 .team-thumb {
 	margin-top: 26px;
 	text-align:center;
+}
+
+#about-img{
+	width: 450px;
+	border-radius: 2em;
 }
 
 /* (spacer) latest tweet */
@@ -1690,7 +1708,7 @@ i.icon-white {
  display: block;
  text-align:center
 }
- .job-position: {
+ .job-position {
  margin-bottom: 1.5em;
 }
  .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
